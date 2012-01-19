@@ -358,13 +358,3 @@ body #banner .logo a {
 	border-top-left-radius: 0;
 	border-bottom-left-radius: 0;
 }
-
-#heading .gans-logo {
-	background:url("../images/gans.gif") no-repeat scroll 0 0 transparent;
-	display:block;
-	font-size:0;
-	height:54px;
-	text-indent:-9999em;
-	width:324px;
-	margin-bottom:2px;
-}
